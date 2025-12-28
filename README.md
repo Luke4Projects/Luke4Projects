@@ -1,7 +1,11 @@
 My name is Luke.
-I use JavaScript to make games on the web.
-I also use C# and .NET often.
-I have also used Java in the past aswell as C++ & OpenGL.
+ - Current projects
+   - JavaScript Canvas2D + WebGL2
+   - C# + Monogame & dotnet
+- Old projects
+  - Java
+  - C++ & opengl
+ 
+---
+Website: 
 [https://luke4projects.github.io/](https://luke4projects.github.io/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke4Projects&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
